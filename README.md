@@ -1,3 +1,3 @@
-# Call Me Bro | Rented Jarvis from Tony Stark ;p  
+# Junior Jarvis  
 ### Welcome 👋
 [App](https://junior-jarvis.vercel.app/)
