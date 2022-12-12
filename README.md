@@ -1,7 +1,3 @@
-# Junior Jarvis  
-### Welcome 👋
-
-
 # Junior Jarvis
 
 Junior Jarvis is a powerful search engine built using GPT-3 and Next.js. It provides an intuitive and powerful search experience for users.
